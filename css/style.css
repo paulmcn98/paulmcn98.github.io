@@ -1,0 +1,41 @@
+body{
+    border:none;
+    background: black;
+    background-size:cover;
+    margin-bottom:0%;
+}
+header {
+    left: 0;
+    top: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    overflow: hidden;
+    background-color: black;
+}
+
+form {
+    text-align: center;
+}
+
+.row div{
+    display: table;
+    width: 10px;
+    table-layout: fixed;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+    display: table-cell;
+    vertical-align: top;
+    width: 10px;
+    height: 26.25rem;
+    margin: auto;
+    background: black;
+    top: 25px;
+    padding-left: 18px;
+    padding-right: 0px;
+}
+
+h2 {
+    color: white;
+}
